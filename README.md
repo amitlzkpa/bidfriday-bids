@@ -1,4 +1,4 @@
-# bidfriday-request
+# bidfriday-bids
 
 ## Project setup
 ```
